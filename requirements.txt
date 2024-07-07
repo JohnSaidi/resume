@@ -1,0 +1,15 @@
+fastapi
+supabase
+uuid
+python-docx
+PyPDF2==3.0.1
+python-dotenv
+langchain                                
+langchain-chroma                         
+langchain-community                      
+langchain-core                           
+langchain-openai                         
+langchain-text-splitters                 
+langsmith 
+uvicorn 
+

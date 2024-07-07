@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Temporary files
+*.pyc
+__pycache__
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/*
+.vscode/*
+
+# Ignore a specific folder
+test_resumes/
